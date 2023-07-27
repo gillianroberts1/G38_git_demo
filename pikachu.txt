@@ -1,1 +1,2 @@
-thunderbolt
+thunderbolt 2.0
+
